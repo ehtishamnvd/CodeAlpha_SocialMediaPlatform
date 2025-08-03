@@ -1,8 +1,8 @@
 Social Media Platform (MERN Stack)
-🌟 Project Overview
+Project Overview
 This is a full-stack social media application built with the MERN (MongoDB, Express, React, Node.js) stack. The platform is designed to provide a modern and interactive user experience, allowing individuals to connect, share posts, and engage with content. It serves as a strong demonstration of building a complete, responsive, and data-driven web application from the ground up.
 
-✨ Key Features
+Key Features
 User Authentication: Secure user registration and login functionality using JSON Web Tokens (JWT) for a protected API.
 
 Dynamic User Profiles: Each user has a unique profile page where they can view their posts, manage their follower/following lists, and update their profile picture and bio.
@@ -15,7 +15,7 @@ Following System: A robust follow/unfollow system allows users to curate their f
 
 Responsive Design: The application's UI is optimized for a seamless experience on both desktop and mobile devices.
 
-💻 Technology Stack
+Technology Stack
 This project leverages a powerful and popular stack for modern web development.
 
 Frontend
@@ -76,7 +76,7 @@ npm start
 
 The application should now be accessible in your web browser at http://localhost:3000.
 
-📈 Future Enhancements
+Future Enhancements
 User Search: Implement a search bar to find users by their username.
 
 Notification System: Add real-time notifications for new likes, comments, and followers.
